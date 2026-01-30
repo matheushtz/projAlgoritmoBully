@@ -21,8 +21,7 @@ Projeto universitário desenvolvido em conjunto com colegas de turma: Igor Roche
 - `BullyServer` / `BullyClient1`: interface gráfica.
 
 ## Como executar
-Este projeto foi estruturado para uso com NetBeans e Ant.
-1. Abra o projeto no NetBeans.
+1. Abra o projeto no NetBeans (Ou VSCode).
 2. Execute o servidor (classe principal do servidor).
 3. Execute o cliente (classe principal do cliente).
 
